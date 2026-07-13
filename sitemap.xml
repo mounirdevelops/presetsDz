@@ -16,41 +16,41 @@
     </image:image>
   </url>
   
-  <!-- Catégories -->
+  <!-- Page Catégories (si vous créez une vraie page) -->
   <url>
-    <loc>https://presets-dz.vercel.app/#categories</loc>
+    <loc>https://presets-dz.vercel.app/categories</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   
-  <!-- Produits -->
+  <!-- Page Produits (si vous créez une vraie page) -->
   <url>
-    <loc>https://presets-dz.vercel.app/#products</loc>
+    <loc>https://presets-dz.vercel.app/products</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
-  <!-- Tarifs -->
+  <!-- Page Tarifs (si vous créez une vraie page) -->
   <url>
-    <loc>https://presets-dz.vercel.app/#pricing</loc>
+    <loc>https://presets-dz.vercel.app/pricing</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   
-  <!-- FAQ -->
+  <!-- Page FAQ (si vous créez une vraie page) -->
   <url>
-    <loc>https://presets-dz.vercel.app/#faq</loc>
+    <loc>https://presets-dz.vercel.app/faq</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
-  <!-- Portfolio -->
+  <!-- Page Portfolio (si vous créez une vraie page) -->
   <url>
-    <loc>https://presets-dz.vercel.app/#portfolio</loc>
+    <loc>https://presets-dz.vercel.app/portfolio</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
