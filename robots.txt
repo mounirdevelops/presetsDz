@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /tmp/
+
+Crawl-delay: 1
+
+Sitemap: https://presetsdz.com/sitemap.xml
+
+User-agent: Googlebot-Image
+Allow: /favicon.png
+Allow: /og-image.jpg
+Allow: /twitter-card.jpg
+Allow: /logo.png
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: CCBot
+Disallow: /
